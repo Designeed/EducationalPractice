@@ -1,0 +1,95 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: white;
+}
+
+.header{
+    display: flex;
+}
+
+.header_Logo{
+    width: 70px;
+    height: 30px;
+    margin-top: 20px;
+    margin-left: 200px;
+}
+
+.nav_jointxt{
+    margin-top: 30px;
+    margin-left: 1400px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    color: #222222;
+}
+
+.Link{
+    text-decoration: none;
+    color: #222222;
+}
+
+.dir_txt-middle{
+    text-align: center;
+    margin-top: 180px;
+}
+
+.title_middle{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 64px;
+    line-height: 68px;
+    color: #191919;
+}
+
+.text_middle{
+    margin-top: 34px;
+    margin-bottom: 40px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 28px;
+    color: #191919;
+}
+
+.dir_email{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 14px;
+}
+
+.txtBox_inpEmail{
+    width: 330px;
+    height: 57px;
+    padding-left: 30px;
+    padding-right: 149px;
+    color: #000000;
+    border-radius: 20px;
+    border-color: #7352FF;
+    outline: none;
+}
+
+.btn_started{
+    margin-left: -149px;
+    width: 149px;
+    height: 59px;
+    border-radius: 20px;
+    color: white;
+    border-color: #7352FF;
+    background-color: #7352FF;
+    cursor: pointer;
+}
