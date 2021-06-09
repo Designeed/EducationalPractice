@@ -35,7 +35,7 @@ body{
     color: #222222;
 }
 
-.dir_txt-middle{
+.div_txt-middle{
     text-align: center;
     margin-top: 180px;
 }
@@ -60,7 +60,7 @@ body{
     color: #191919;
 }
 
-.dir_email{
+.div_email{
     display: flex;
     align-items: center;
     justify-content: center;
@@ -93,3 +93,6 @@ body{
     background-color: #7352FF;
     cursor: pointer;
 }
+
+
+
