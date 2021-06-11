@@ -132,6 +132,8 @@ body{
     font-weight: normal;
     line-height: 17px;
     border-radius: 12px;
+
+    box-shadow: 0 0 70px;
 }
 
 .nav{
