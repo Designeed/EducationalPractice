@@ -488,3 +488,151 @@ th{
 .th{
     padding: 10px;
 }
+
+.fifth_section{
+    height: 2422px;
+    background-color: #191919;  
+}
+
+.div_blockPay{
+    display: flex;
+    justify-content: center;
+}
+
+.div_logoPay{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #6EE4B5;
+    border-radius: 64px;
+    width: 94px;
+    height: 44px;
+    margin-top: 160px;
+    margin-bottom: 31px;
+}
+
+.p_Free{
+    font-size: 20px;
+    line-height: 28px;
+    text-align: center;
+    color: #6EE4B5;
+    margin-bottom: 8px;
+}
+
+.p_Payments{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 64px;
+    line-height: 68px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.all_block{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 160px;
+    justify-content: center;
+    max-width: 1500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.div_template{
+    font-style: normal;
+    font-weight: normal;
+
+    width: 587px;
+    height: 633px;
+
+    padding:  48px 48px 0 48px;
+    margin: 0 0 20px 20px;
+    border-radius: 16px;
+    background-color: #1D1D1D;
+}
+
+.p_txt1{
+    font-size: 20px;
+    line-height: 28px;
+    color: #6EE4B5;
+    margin-bottom: 20px;
+}
+
+.p_txt2{
+    font-size: 11px;
+    line-height: 24px;
+    color: #FFFFFF;
+    margin-bottom: 122px;
+}
+
+.div_center{
+    display: flex;
+    justify-content: center;
+}
+
+.div_fEnd{
+    display: flex;
+    align-items:flex-end;
+    justify-content: center;
+    
+}
+
+.img_phone{
+    margin-top: 3px;
+}
+
+.img_Payments{
+    margin-top: 40px
+}
+
+.img_chase{
+    margin-top: 120px;
+}
+
+.img_PhoneChat{
+    margin-top: 3px;
+}
+
+.all{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 2000px;
+}
+
+.div_UnderCards1{
+    margin-right: 380px;
+    margin-left: 370px;
+    margin-top: 128px;
+}
+
+.div_UnderCards2{
+    margin-top: 128px;
+}
+
+.p_were{
+    font-size: 40px;
+    line-height: 48px;
+    color: #FFFFFF;
+    margin-bottom: 30px;
+}
+
+.div_imgAndTxt{
+    display: flex;
+    align-items:center;
+    
+}
+
+.p_Come{
+    font-size: 20px;
+    line-height: 28px;
+    color: #6EE4B5;
+    margin-right: 20px;
+}
+
+.p_txt{
+    font-size: 24px;
+    line-height: 36px;
+    color: #FFFFFF;
+    margin-bottom: 12px;
+}
