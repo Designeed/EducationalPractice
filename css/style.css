@@ -620,7 +620,6 @@ th{
 .div_imgAndTxt{
     display: flex;
     align-items:center;
-    
 }
 
 .p_Come{
@@ -635,4 +634,114 @@ th{
     line-height: 36px;
     color: #FFFFFF;
     margin-bottom: 12px;
+}
+
+.footer_end{
+    height: 200px;
+    background: #7352FF;
+    padding:80px 124px 124px;
+}
+
+.BlockLR{
+    display: flex;
+    max-width: 1500px;
+    margin: auto;
+}
+
+.div_blockLeft{
+    margin-left: 124px;
+    margin-right: 720px;
+}
+
+.p_cheers{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 36px;
+    color: white;
+}
+
+.inp_Subscribe{
+    margin-top: 15px;
+    margin-bottom: 100px;
+    width: 360px;
+    height: 50px;
+    border-radius: 13px;
+    border: 1px solid #FFFFFF;
+    padding-left: 22px;
+    padding-right: 56px;
+    background: #7352FF;
+    outline: none;
+    color: #FFFFFF;
+}
+
+.btn_OK{
+    margin-left: -61px;
+    width: 56px;
+    height: 50px;
+    border-radius: 13px;
+    color: white;
+    border: none;
+    background-color: #7352FF;
+    cursor: pointer;
+}
+
+.inp_Subscribe::placeholder{
+    color: white;
+}
+
+.div_BlockInst{
+    margin-right: 30px;
+    display: flex;
+    justify-items: center;
+}
+
+.img_Inst{
+    margin-right: 4px;
+}
+
+.div_BlockTwitter{
+    display: flex;
+    justify-items: center;
+}
+
+.img_Twitter{
+    margin-right: 4px;
+}
+
+.div_Social{
+    display: flex;
+    max-width: 1000px;
+}
+
+.LinkSocial{
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.5);
+}
+
+.img_Stir{
+    margin-bottom: 193px;
+}
+
+.TermsPrivacy{
+    display: flex;
+    margin-left: -120px;
+}
+
+.LinkPrivacy{
+    text-decoration: none;
+    margin-left: 23px;
+    margin-right: 23px;
+    color: rgba(255, 255, 255, 0.5);
+}
+
+.Stir2021{
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 20px;
+    color: #FFFFFF;
+}
+
+html{
+    scroll-behavior: smooth;
 }
